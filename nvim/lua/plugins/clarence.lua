@@ -19,6 +19,7 @@ return {
 			require("copilot_cmp").setup()
 		end,
 	},
+
 	{
 		url = "https://codeberg.org/jthvai/lavender.nvim",
 		branch = "stable", -- versioned tags + docs updates from main
