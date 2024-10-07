@@ -1,4 +1,6 @@
 # my-dotfiles
 My Unix && MacOS configuration files
 
-![Screenshot](./screenshot.jpg)
+![Screenshot1](./screenshot1.jpg)
+
+![Screenshot2](./screenshot2.jpg)
