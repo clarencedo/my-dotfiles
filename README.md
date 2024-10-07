@@ -1,2 +1,3 @@
-# dotfiles-public
- config
+# my-dotfiles
+My Unix && MacOS configuration files
+
